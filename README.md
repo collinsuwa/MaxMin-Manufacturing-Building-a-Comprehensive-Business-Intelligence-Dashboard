@@ -1,8 +1,6 @@
 # MaxMinManufacturing: Building a Comprehensive Business Intelligence Solution
 
-# MaxMin Manufacturing Company Dashboard
-
-This repository contains an interactive dashboard that provides a comprehensive analysis of production data for MaxMin Manufacturing Company, focusing on the years 2013 to 2015. The dashboard delivers insights into production trends, machine and plant performance, and product and location analytics.
+This repository contains an interactive dashboard that provides a comprehensive analysis of production data for MaxMin Manufacturing Company, focusing on the years 2013 to 2015. The dashboard delivers insights into product trends, machine and plant performance, and product and location analysis.
 
 ## Key Analysis Features
 
@@ -51,15 +49,17 @@ The dashboard analyzes the following metrics:
 ## Tools and Technologies Used
 - **Data Extraction and Processing**: Data extracted from MaxMin's production databases, processed using Power Query and DAX.
 - **Visualization**: Built using Power BI.
+- **Database Connectivity**: Power BI was connected to SQL Server Management Studio (SSMS), where the MaxMin Manufacturing database was restored.
+- **Microsoft Powerpoint**: Dashboard layout design 
 
 ## How to Use the Dashboard
 1. Use the slicers to filter data by year, quarter, or month.
-2. Explore interactive visuals for insights into production trends, efficiency, and performance metrics.
+2. Explore interactive visuals for insights into product trends, efficiency, and performance metrics.
 3. Hover over visuals for detailed tooltips.
 
 ## Key Insights
 
-1. **Production Trends**:
+1. **Product Trends**:
    - Detailed monthly insights into rejected and accepted products.
 
 2. **Machine Performance**:
