@@ -1,4 +1,4 @@
-# MaxMin-Manufacturing-Building-a-Comprehensive-Business-Intelligence-Dashboard
+# MaxMinManufacturing: Building a Comprehensive Business Intelligence Solution
 
 # MaxMin Manufacturing Company Dashboard
 
